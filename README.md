@@ -3,7 +3,7 @@
 <br>
 
 #### 알고리즘 기초
-문제01. 1부터 n까지의 합 구하기 <br>
+문제01. 1부터 n까지의 합 구하기 <a href='https://github.com/ujin2021/AlgorithmForEveryone/blob/main/TIL/q1.md'> TIL📋  </a> <br>
 문제02. 최댓값 찾기 <br>
 문제03. 동명이인 찾기 <br>
  <br>
