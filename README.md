@@ -4,13 +4,13 @@
 
 #### 알고리즘 기초
 문제01. 1부터 n까지의 합 구하기     <a href='https://github.com/ujin2021/AlgorithmForEveryone/blob/main/TIL/q1.md'> 📋TIL  </a> <br>
-문제02. 최댓값 찾기 <br>
-문제03. 동명이인 찾기 <br>
+문제02. 최댓값 찾기 <a href='https://github.com/ujin2021/AlgorithmForEveryone/blob/main/TIL/q2.md'> 📋TIL  </a> <br>
+문제03. 동명이인 찾기 <a href='https://github.com/ujin2021/AlgorithmForEveryone/blob/main/TIL/q3.md'> 📋TIL  </a> <br>
  <br>
  
 #### 재귀호출
-문제04. 팩토리얼 구하기 <br>
-문제05. 최대공약수 구하기 <br>
+문제04. 팩토리얼 구하기 <a href='https://github.com/ujin2021/AlgorithmForEveryone/blob/main/TIL/q4.md'> 📋TIL  </a> <br>
+문제05. 최대공약수 구하기 <a href='https://github.com/ujin2021/AlgorithmForEveryone/blob/main/TIL/q5.md'> 📋TIL  </a> <br>
 문제06. 하노이의 탑 옮기기 <br>
  <br>
  
