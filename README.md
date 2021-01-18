@@ -11,7 +11,7 @@
 #### 재귀호출
 문제04. 팩토리얼 구하기 <a href='https://github.com/ujin2021/AlgorithmForEveryone/blob/main/TIL/q4.md'> 📋TIL  </a> <br>
 문제05. 최대공약수 구하기 <a href='https://github.com/ujin2021/AlgorithmForEveryone/blob/main/TIL/q5.md'> 📋TIL  </a> <br>
-문제06. 하노이의 탑 옮기기 <br>
+문제06. 하노이의 탑 옮기기 <a href='https://github.com/ujin2021/AlgorithmForEveryone/blob/main/TIL/q6.md'> 📋TIL </a> <br>
  <br>
  
 #### 탐색과 정렬
