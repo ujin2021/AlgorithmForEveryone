@@ -16,8 +16,8 @@
  
 #### 탐색과 정렬
 문제07. 순차 탐색 <a href='https://github.com/ujin2021/AlgorithmForEveryone/blob/main/TIL/q7.md'> 📋TIL </a><br>
-문제08. 선택 정렬 <br>
-문제09. 삽입 정렬 <br>
+문제08. 선택 정렬 <a href='https://github.com/ujin2021/AlgorithmForEveryone/blob/main/TIL/q8.md'> 📋TIL </a><br>
+문제09. 삽입 정렬 <a href='https://github.com/ujin2021/AlgorithmForEveryone/blob/main/TIL/q9.md'> 📋TIL </a><br>
 문제10. 병합 정렬 <br>
 문제11. 퀵 정렬 <br>
 문제12. 이분 탐색 <br>
